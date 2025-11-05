@@ -1,0 +1,9 @@
+[project]
+name = "opencv-chess-fen"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.10",
+    "numpy>=2.2.6",
+    "opencv-python>=4.12.0.88",
+]
