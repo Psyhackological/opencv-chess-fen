@@ -9,4 +9,6 @@ Detect Lichess pieces using OpenCV and template matching!
 ## Pieces
 
 * Width: each piece is different
-* Height: the same (66 pixels)
+* Height: +- the same
+
+How to be consistent? Well they're. PNG alpha keeps the offsets so after exporting to 90x90 pixels it's almost pixel perfect match to the board.
