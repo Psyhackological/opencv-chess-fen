@@ -158,9 +158,9 @@
 
 ### monarchy
 
-| ![monarchy wR](monarchy/webps/wR.webp) | ![monarchy wN](monarchy/webps/wN.webp) | ![monarchy wB](monarchy/webps/wB.webp) | ![monarchy wN](monarchy/webps/wN.webp) | ![monarchy wQ](monarchy/webps/wQ.webp) | ![monarchy wP](monarchy/webps/wP.webp) |
+| ![monarchy wR](monarchy/pngs/wR.png) | ![monarchy wN](monarchy/pngs/wN.png) | ![monarchy wB](monarchy/pngs/wB.png) | ![monarchy wN](monarchy/pngs/wN.png) | ![monarchy wQ](monarchy/pngs/wQ.png) | ![monarchy wP](monarchy/pngs/wP.png) |
 | --- | --- | --- | --- | --- | --- |
-| ![monarchy bR](monarchy/webps/bR.webp) | ![monarchy bN](monarchy/webps/bN.webp) | ![monarchy bB](monarchy/webps/bB.webp) | ![monarchy bN](monarchy/webps/bN.webp) | ![monarchy bQ](monarchy/webps/bQ.webp) | ![monarchy bP](monarchy/webps/bP.webp) |
+| ![monarchy bR](monarchy/pngs/bR.png) | ![monarchy bN](monarchy/pngs/bN.png) | ![monarchy bB](monarchy/pngs/bB.png) | ![monarchy bN](monarchy/pngs/bN.png) | ![monarchy bQ](monarchy/pngs/bQ.png) | ![monarchy bP](monarchy/pngs/bP.png) |
 
 ### mono
 
