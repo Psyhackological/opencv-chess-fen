@@ -120,17 +120,11 @@
 | --- | --- | --- | --- | --- | --- |
 | ![icpieces bR](icpieces/pngs/bR.png) | ![icpieces bN](icpieces/pngs/bN.png) | ![icpieces bB](icpieces/pngs/bB.png) | ![icpieces bN](icpieces/pngs/bN.png) | ![icpieces bQ](icpieces/pngs/bQ.png) | ![icpieces bP](icpieces/pngs/bP.png) |
 
-### kiwen
+### kiwen-suwi
 
-| ![kiwen wR](kiwen/pngs/wR.png) | ![kiwen wN](kiwen/pngs/wN.png) | ![kiwen wB](kiwen/pngs/wB.png) | ![kiwen wN](kiwen/pngs/wN.png) | ![kiwen wQ](kiwen/pngs/wQ.png) | ![kiwen wP](kiwen/pngs/wP.png) |
+| ![kiwen-suwi wR](kiwen-suwi/pngs/wR.png) | ![kiwen-suwi wN](kiwen-suwi/pngs/wN.png) | ![kiwen-suwi wB](kiwen-suwi/pngs/wB.png) | ![kiwen-suwi wN](kiwen-suwi/pngs/wN.png) | ![kiwen-suwi wQ](kiwen-suwi/pngs/wQ.png) | ![kiwen-suwi wP](kiwen-suwi/pngs/wP.png) |
 | --- | --- | --- | --- | --- | --- |
-| ![kiwen bR](kiwen/pngs/bR.png) | ![kiwen bN](kiwen/pngs/bN.png) | ![kiwen bB](kiwen/pngs/bB.png) | ![kiwen bN](kiwen/pngs/bN.png) | ![kiwen bQ](kiwen/pngs/bQ.png) | ![kiwen bP](kiwen/pngs/bP.png) |
-
-### suwi
-
-| ![suwi wR](suwi/pngs/wR.png) | ![suwi wN](suwi/pngs/wN.png) | ![suwi wB](suwi/pngs/wB.png) | ![suwi wN](suwi/pngs/wN.png) | ![suwi wQ](suwi/pngs/wQ.png) | ![suwi wP](suwi/pngs/wP.png) |
-| --- | --- | --- | --- | --- | --- |
-| ![suwi bR](suwi/pngs/bR.png) | ![suwi bN](suwi/pngs/bN.png) | ![suwi bB](suwi/pngs/bB.png) | ![suwi bN](suwi/pngs/bN.png) | ![suwi bQ](suwi/pngs/bQ.png) | ![suwi bP](suwi/pngs/bP.png) |
+| ![kiwen-suwi bR](kiwen-suwi/pngs/bR.png) | ![kiwen-suwi bN](kiwen-suwi/pngs/bN.png) | ![kiwen-suwi bB](kiwen-suwi/pngs/bB.png) | ![kiwen-suwi bN](kiwen-suwi/pngs/bN.png) | ![kiwen-suwi bQ](kiwen-suwi/pngs/bQ.png) | ![kiwen-suwi bP](kiwen-suwi/pngs/bP.png) |
 
 ### kosal
 
@@ -164,15 +158,15 @@
 
 ### monarchy
 
-| ![monarchy wR](monarchy/pngs/wR.png) | ![monarchy wN](monarchy/pngs/wN.png) | ![monarchy wB](monarchy/pngs/wB.png) | ![monarchy wN](monarchy/pngs/wN.png) | ![monarchy wQ](monarchy/pngs/wQ.png) | ![monarchy wP](monarchy/pngs/wP.png) |
+| ![monarchy wR](monarchy/webps/wR.webp) | ![monarchy wN](monarchy/webps/wN.webp) | ![monarchy wB](monarchy/webps/wB.webp) | ![monarchy wN](monarchy/webps/wN.webp) | ![monarchy wQ](monarchy/webps/wQ.webp) | ![monarchy wP](monarchy/webps/wP.webp) |
 | --- | --- | --- | --- | --- | --- |
-| ![monarchy bR](monarchy/pngs/bR.png) | ![monarchy bN](monarchy/pngs/bN.png) | ![monarchy bB](monarchy/pngs/bB.png) | ![monarchy bN](monarchy/pngs/bN.png) | ![monarchy bQ](monarchy/pngs/bQ.png) | ![monarchy bP](monarchy/pngs/bP.png) |
+| ![monarchy bR](monarchy/webps/bR.webp) | ![monarchy bN](monarchy/webps/bN.webp) | ![monarchy bB](monarchy/webps/bB.webp) | ![monarchy bN](monarchy/webps/bN.webp) | ![monarchy bQ](monarchy/webps/bQ.webp) | ![monarchy bP](monarchy/webps/bP.webp) |
 
 ### mono
 
-| ![mono wR](mono/pngs/wR.png) | ![mono wN](mono/pngs/wN.png) | ![mono wB](mono/pngs/wB.png) | ![mono wN](mono/pngs/wN.png) | ![mono wQ](mono/pngs/wQ.png) | ![mono wP](mono/pngs/wP.png) |
+| ![mono R](mono/pngs/R.png) | ![mono N](mono/pngs/N.png) | ![mono B](mono/pngs/B.png) | ![mono N](mono/pngs/N.png) | ![mono Q](mono/pngs/Q.png) | ![mono P](mono/pngs/P.png) |
 | --- | --- | --- | --- | --- | --- |
-| ![mono bR](mono/pngs/bR.png) | ![mono bN](mono/pngs/bN.png) | ![mono bB](mono/pngs/bB.png) | ![mono bN](mono/pngs/bN.png) | ![mono bQ](mono/pngs/bQ.png) | ![mono bP](mono/pngs/bP.png) |
+| ![mono R](mono/pngs/R.png) | ![mono N](mono/pngs/N.png) | ![mono B](mono/pngs/B.png) | ![mono N](mono/pngs/N.png) | ![mono Q](mono/pngs/Q.png) | ![mono P](mono/pngs/P.png) |
 
 ### mpchess
 
